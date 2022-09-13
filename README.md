@@ -2,7 +2,7 @@
 <h3 align="center">frontend developer from Taiwan</h3>
 
 -  I’m currently learning **TypeScript,React,Docker**
-- view my [!blog](https://eepson123tw.github.io/)
+- view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
 - How to reach me **eepson123@gmail.com**
 
 
