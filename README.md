@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Allen</h1>
-<h3 align="center">frontend developer from Taiwan</h3>
+<h3 align="center">Frontend developer from Taiwan</h3>
 
 -  I’m currently learning **TypeScript,React,Docker**
 - view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
