@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Allen</h1>
-## https://img.shields.io/static/v1?label=frontEnd&message=Developer&color=red
+<img src="https://img.shields.io/static/v1?label=frontEnd&message=Developer&color=red" />
 <h3 align="center">Frontend developer from Taiwan</h3>
 
 -  I’m currently learning **TypeScript,React,Docker**
