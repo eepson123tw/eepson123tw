@@ -6,7 +6,7 @@
 
 
 -  I’m currently learning **TypeScript,React,Docker**
-- view my [![Website Badge](https://img.shields.io/badge/-blog?style=flat-square&logo=HTML5&logoColor=white&link=blog)](https://eepson123tw.github.io/)
+- view my [![Website Badge](https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog)](https://eepson123tw.github.io/)
 - How to reach me [![Gmail Badge](https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com)](mailto:eepson123@gmail.com)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
