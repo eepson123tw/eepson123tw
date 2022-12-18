@@ -17,6 +17,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/React/#61DAFB" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/Jenkins/#D24939" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/Docker/#2496ED" />
+   <img height="32" width="32" src="https://cdn.simpleicons.org/Bootstrap/#7952B3" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
