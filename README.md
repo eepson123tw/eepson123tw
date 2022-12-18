@@ -46,7 +46,7 @@
 ](https://github.com/anuraghazra/github-readme-stats)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/eepson123tw/count.svg" />
 
 </div>
 
