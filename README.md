@@ -24,7 +24,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/Sass/#CC6699" />
 </div>
 
-# Blog posts current 5 
+# Latest blog post 
 <!-- BLOG-POST-LIST:START -->
 - [網頁的效能指標及優化](https://eepson123tw.github.io/frondend-005-md/)
 - [如何操作複雜的物件結構](https://eepson123tw.github.io/frondend-004/)
