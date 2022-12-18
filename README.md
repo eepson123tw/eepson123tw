@@ -24,6 +24,8 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/Sass/#CC6699" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=eepson123tw)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eepson123tw&show_icons=true&theme=radical)
