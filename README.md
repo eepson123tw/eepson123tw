@@ -24,6 +24,10 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/Sass/#CC6699" />
 </div>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 </br>
 <div align="center">
   
