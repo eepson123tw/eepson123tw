@@ -9,7 +9,7 @@
 - view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
 - How to reach me **eepson123@gmail.com**
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/00ccff99" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/yellow" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
