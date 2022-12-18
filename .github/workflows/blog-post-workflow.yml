@@ -15,3 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://eepson123tw.github.io/atom.xml"
+          date_format: ddd mmm dd yyyy h:MM TT
