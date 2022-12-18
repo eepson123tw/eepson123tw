@@ -9,8 +9,14 @@
 - view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
 - How to reach me **eepson123@gmail.com**
 <div>
+  I can write project with
   <img height="32" width="32" src="https://cdn.simpleicons.org/JavaScript/#F7DF1E" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/TypeScript/#3178C6" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/Vue.js/#4FC08D" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/Nuxt.js/#00DC82" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/React/#61DAFB" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/Jenkins/#D24939" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/Docker/#2496ED" />
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
