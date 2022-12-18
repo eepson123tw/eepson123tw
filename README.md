@@ -6,7 +6,7 @@
 
 
 -  I’m currently learning **TypeScript,React,Docker**
-- view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
+- view my [![Website Badge]([https://img.shields.io/badge/-jayraj.co.in-e34f2](https://eepson123tw.github.io/)6?style=flat-square&logo=HTML5&logoColor=white&link=[https://jayraj.co.in/](https://eepson123tw.github.io/))](https://eepson123tw.github.io/) to find some thing interesting tips!
 - How to reach me [![Gmail Badge](https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com)](mailto:eepson123@gmail.com)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/jayraj-roshan/)
