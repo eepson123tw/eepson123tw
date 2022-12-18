@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Allen</h1>
-<img src="https://img.shields.io/static/v1?label=frontEnd&message=Developer&color=red" />
-<img src="https://img.shields.io/static/v1?label=frontEnd&message=taiwan&color=black" />
+<div>
+  <img src="https://img.shields.io/static/v1?label=frontEnd&message=Developer&color=red" />
+  <img src="https://img.shields.io/static/v1?label=frontEnd&message=taiwan&color=black" />
+</div>
+
 
 -  I’m currently learning **TypeScript,React,Docker**
 - view my [blog](https://eepson123tw.github.io/) to find some thing interesting tips!
