@@ -29,11 +29,11 @@
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
+- [Type與Interface的差異](https://eepson123tw.github.io/frontend-006/)
 - [2022年度回顧](https://eepson123tw.github.io/review2022/)
-- [網頁的效能指標及優化](https://eepson123tw.github.io/frondend-005-md/)
+- [網頁的效能指標及優化](https://eepson123tw.github.io/frondend-005/)
 - [如何操作複雜的物件結構](https://eepson123tw.github.io/frondend-004/)
 - [實作一個可視區域導讀提醒](https://eepson123tw.github.io/frondend-003/)
-- [前端與框架的關係](https://eepson123tw.github.io/frameWork/)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
