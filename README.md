@@ -29,11 +29,11 @@
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT 橫空出世，工程師該如何看待這現象?](https://eepson123tw.github.io/frontend-008/)
 - [面對複雜的需求時，應該...?](https://eepson123tw.github.io/frontend-007/)
 - [Type與Interface的差異](https://eepson123tw.github.io/frontend-006/)
 - [2022年度回顧](https://eepson123tw.github.io/review2022/)
 - [網頁的效能指標及優化](https://eepson123tw.github.io/frontend-005/)
-- [如何操作複雜的物件結構](https://eepson123tw.github.io/frontend-004/)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
