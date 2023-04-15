@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://eepson123tw.github.io/atom.xml"
+          feed_list: "https://allenvitepress.zeabur.app/feed.rss"
           date_format: UTC:ddd mmm dd yyyy h:MM TT
