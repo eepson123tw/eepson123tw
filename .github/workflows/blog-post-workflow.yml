@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://allenvitepress.zeabur.app/feed.rss"
+          feed_list: "https://allenvitepress.zeabur.app/rss.xml"
           date_format: UTC:ddd mmm dd yyyy h:MM TT
