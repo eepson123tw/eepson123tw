@@ -15,4 +15,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://allenvitepress.zeabur.app/rss.xml"
-          date_format: UTC:ddd mmm dd yyyy h:MM TT
+          disable_item_validation: true
+          item_exec: "if (!post.title) post = null;" #to skip post that dont have title
+          date_format: yy-mm-dd
