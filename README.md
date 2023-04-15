@@ -30,10 +30,10 @@
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
 - [Algolia](https://allenvitepress.zeabur.app/view/posts/Algolia)
-- [Dom 到底是甚麼呢](https://allenvitepress.zeabur.app/view/posts/dom)
 - [Nginx是甚麼?](https://allenvitepress.zeabur.app/view/backend/nginx)
 - [JWT機制&lpar;JSON Web Tokens&rpar;](https://allenvitepress.zeabur.app/view/posts/jwt)
 - [ChatGPT 橫空出世，工程師該如何看待這現象?](https://allenvitepress.zeabur.app/view/posts/frontend-008)
+- [面對複雜的需求時，應該...?](https://allenvitepress.zeabur.app/view/posts/frontend-007)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
