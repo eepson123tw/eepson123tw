@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 12 * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 
 jobs:
@@ -15,6 +15,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://allenvitepress.zeabur.app/rss.xml"
+          max_post_count: 6
           disable_item_validation: true
           item_exec: "if (!post.title) post = null;" #to skip post that dont have title
           date_format: yy-mm-dd
