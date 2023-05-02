@@ -34,6 +34,7 @@
 - [React框架第一天](https://allenvitepress.zeabur.app/view/posts/react/react-001)
 - [Nginx是甚麼?](https://allenvitepress.zeabur.app/view/backend/nginx)
 - [JWT機制&lpar;JSON Web Tokens&rpar;](https://allenvitepress.zeabur.app/view/posts/jwt)
+- [ChatGPT 橫空出世，工程師該如何看待這現象?](https://allenvitepress.zeabur.app/view/posts/frontend-008)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
