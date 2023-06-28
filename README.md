@@ -11,7 +11,7 @@
 - Contact with me [![Linkedin Badge](https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/)](https://www.linkedin.com/in/chou-allen-250397207/)
 
 <details>
-  <summary>## My Skill Set</summary>
+  <summary>My Skill Set</summary>
   <br>
   
 <table><tr><td valign="top" width="33%">
