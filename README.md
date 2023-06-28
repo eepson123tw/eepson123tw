@@ -10,6 +10,19 @@
 - How to reach me [![Gmail Badge](https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com)](mailto:eepson123@gmail.com)
 - Contact with me [![Linkedin Badge](https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/)](https://www.linkedin.com/in/chou-allen-250397207/)
 
+# Latest blog post 
+<!-- BLOG-POST-LIST:START -->
+- [React框架第五天](https://allenvitepress.zeabur.app/view/posts/react/react-005)
+- [categories](https://allenvitepress.zeabur.app/view/categories)
+- [React框架第四天](https://allenvitepress.zeabur.app/view/posts/react/react-004)
+- [React框架第三天](https://allenvitepress.zeabur.app/view/posts/react/react-003)
+- [Algolia](https://allenvitepress.zeabur.app/view/posts/Algolia)
+- [React框架第二天](https://allenvitepress.zeabur.app/view/posts/react/react-002)
+<!-- BLOG-POST-LIST:END -->
+
+</br>
+
+
 <details>
   <summary>My Skill Set</summary>
   <br>
@@ -67,17 +80,8 @@
 <br/>  
 </details>
 
-# Latest blog post 
-<!-- BLOG-POST-LIST:START -->
-- [React框架第五天](https://allenvitepress.zeabur.app/view/posts/react/react-005)
-- [categories](https://allenvitepress.zeabur.app/view/categories)
-- [React框架第四天](https://allenvitepress.zeabur.app/view/posts/react/react-004)
-- [React框架第三天](https://allenvitepress.zeabur.app/view/posts/react/react-003)
-- [Algolia](https://allenvitepress.zeabur.app/view/posts/Algolia)
-- [React框架第二天](https://allenvitepress.zeabur.app/view/posts/react/react-002)
-<!-- BLOG-POST-LIST:END -->
-
-</br>
+<details>
+  <summary>My Status</summary>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -90,6 +94,6 @@
 
 
 </div>
-
+</details>
 
 
