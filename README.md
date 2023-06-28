@@ -10,6 +10,8 @@
 - How to reach me [![Gmail Badge](https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com)](mailto:eepson123@gmail.com)
 - Contact with me [![Linkedin Badge](https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/)](https://www.linkedin.com/in/chou-allen-250397207/)
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
