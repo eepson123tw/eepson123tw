@@ -6,9 +6,7 @@
 
 
 -  I’m currently learning **TypeScript,React,Docker**
-- View my [![Website Badge](https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog)](https://allenvitepress.zeabur.app/)
-- How to reach me [![Gmail Badge](https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com)](mailto:eepson123@gmail.com)
-- Contact with me [![Linkedin Badge](https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/)](https://www.linkedin.com/in/chou-allen-250397207/)
+
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
@@ -81,7 +79,7 @@
 </details>
 
 <details>
-  <summary>My Status</summary>
+<summary>My Status</summary>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -91,9 +89,19 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eepson123tw&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 </div>
 </details>
+
+<p align="center">
+<a href= "https://allenvitepress.zeabur.app/"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
+<a href= "mailto:eepson123@gmail.com"><img src="https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com"/></a>
+<a href= "https://www.linkedin.com/in/chou-allen-250397207/"><img src="https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eepson123tw" alt="visitor badge"/>       
+</p>
+
+</p>
 
 
