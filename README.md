@@ -9,7 +9,6 @@
 -  I’m currently learning **TypeScript,React,Docker**.
 -  take easy to contact me.
 -  like to learn new thing.
--  self learning
 
 
 # Latest blog post 
