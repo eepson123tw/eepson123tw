@@ -13,12 +13,12 @@
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
+- [React框架第七天](https://allenvitepress.zeabur.app/view/posts/react/react-007)
 - [React框架第六天](https://allenvitepress.zeabur.app/view/posts/react/react-006)
 - [React框架第五天](https://allenvitepress.zeabur.app/view/posts/react/react-005)
 - [categories](https://allenvitepress.zeabur.app/view/categories)
 - [React框架第四天](https://allenvitepress.zeabur.app/view/posts/react/react-004)
 - [React框架第三天](https://allenvitepress.zeabur.app/view/posts/react/react-003)
-- [Algolia](https://allenvitepress.zeabur.app/view/posts/Algolia)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
