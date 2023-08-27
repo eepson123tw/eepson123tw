@@ -6,10 +6,19 @@
 </div>
 
 
--  I’m currently learning **TypeScript,React,Docker**.
--  take easy to contact me.
--  like to learn new thing.
-
+> I'm an enthusiastic front-end developer with a vibrant passion for crafting captivating user interfaces.
+> 
+> On top of that, I'm a curious 3D modeling enthusiast. With a wealth of experience in designing and developing websites, I'm captivated by the art of creating stunning and highly interactive user interfaces.
+> 
+> Currently, I'm diving into self-learning Blender, and I'm fervently exploring the integration of 3D technology into the front-end realm using tools like React Three Fiber.
+> 
+> I deeply understand the significance of responsive design and cross-browser compatibility in delivering seamless user experiences across devices.
+> 
+> I'm not just about translating creativity into visual impact—I excel in collaborating within diverse teams and fostering open communication to ensure projects shine from all angles.
+> 
+> I firmly believe that continuous learning is the key to progress, which is why I'm enthusiastically self-learning new technologies to infuse the dynamic energy of 3D modeling into front-end development, injecting innovation and vitality into your projects.
+> 
+> As for front-end frameworks, I'm proficient in Vue and currently embarked on an exciting journey to self-learn React, aiming to expand my skill set. 
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
