@@ -22,12 +22,12 @@
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
-- [自學的進程](https://allenvitepress.zeabur.app/view/posts/self-learning-smalltalk)
-- [瀏覽器是如何運作的?](https://allenvitepress.zeabur.app/view/posts/how-browser-work)
-- [React框架第七天](https://allenvitepress.zeabur.app/view/posts/react/react-007)
-- [React框架第六天](https://allenvitepress.zeabur.app/view/posts/react/react-006)
-- [React框架第五天](https://allenvitepress.zeabur.app/view/posts/react/react-005)
-- [categories](https://allenvitepress.zeabur.app/view/categories)
+- [自學的進程](https://allenblog.zeabur.app/view/posts/self-learning-smalltalk)
+- [瀏覽器是如何運作的?](https://allenblog.zeabur.app/view/posts/how-browser-work)
+- [React框架第七天](https://allenblog.zeabur.app/view/posts/react/react-007)
+- [React框架第六天](https://allenblog.zeabur.app/view/posts/react/react-006)
+- [React框架第五天](https://allenblog.zeabur.app/view/posts/react/react-005)
+- [categories](https://allenblog.zeabur.app/view/categories)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
@@ -114,7 +114,7 @@
 </details>
 
 <p align="center">
-<a href= "https://allenvitepress.zeabur.app/"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
+<a href= "https://allenblog.zeabur.app/"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
 <a href= "mailto:eepson123@gmail.com"><img src="https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com"/></a>
 <a href= "https://www.linkedin.com/in/chou-allen-250397207/"><img src="https://img.shields.io/badge/-Allen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chou-allen-250397207/"/></a>
 </p>
@@ -124,5 +124,4 @@
 </p>
 
 </p>
-
 
