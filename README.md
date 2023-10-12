@@ -22,12 +22,7 @@
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
-- [Encode、Decode、Hash 是幹甚麼東西?](https://allenblog.zeabur.app/view/backend/encode)
-- [自學的進程](https://allenblog.zeabur.app/view/posts/self-learning-smalltalk)
-- [瀏覽器是如何運作的?](https://allenblog.zeabur.app/view/posts/how-browser-work)
-- [React框架第七天](https://allenblog.zeabur.app/view/posts/react/react-007)
-- [React框架第六天](https://allenblog.zeabur.app/view/posts/react/react-006)
-- [React框架第五天](https://allenblog.zeabur.app/view/posts/react/react-005)
+
 <!-- BLOG-POST-LIST:END -->
 
 </br>
