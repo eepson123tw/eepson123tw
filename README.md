@@ -18,7 +18,8 @@
 > 
 > I firmly believe that continuous learning is the key to progress, which is why I'm enthusiastically self-learning new technologies to infuse the dynamic energy of 3D modeling into front-end development, injecting innovation and vitality into your projects.
 > 
-> As for front-end frameworks, I'm proficient in Vue and currently embarked on an exciting journey to self-learn React, aiming to expand my skill set. 
+> As for front-end frameworks, I'm proficient in Vue and currently embarked on an exciting journey to self-learn React, aiming to expand my skill set.
+> [Find most cheapest airlines in Taiwain | Side project](http://lastmile.ink/#/analyance/passenger)
 
 # Latest blog post 
 <!-- BLOG-POST-LIST:START -->
