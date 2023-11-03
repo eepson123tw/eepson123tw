@@ -11,8 +11,11 @@
 - Enthusiastic front-end developer passionate about crafting captivating user interfaces.
 - Curious 3D modeling enthusiast, delving into Blender and 3D technology integration in front-end realms.
 - Proficient in Vue, currently exploring React.
-- And below is my cooperate Side project to help people find the cheapest airlines.
-- [Lastmile](http://lastmile.ink/#/analyance/passenger)
+
+
+## 👨🏻‍💻 Ongoing Projects:
+- [Lastmile](http://lastmile.ink/#/analyance/passenger): A side project aiming to help people find the cheapest airlines.
+
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
