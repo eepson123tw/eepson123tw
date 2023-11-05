@@ -39,7 +39,7 @@
 
 
 <details>
-  <summary>My Skill Set</summary>
+  <summary>Skill Set</summary>
   <br>
   
 <table><tr><td valign="top" width="33%">
@@ -97,7 +97,7 @@
 </details>
 
 <details>
-<summary>My Status</summary>
+<summary>Status</summary>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
