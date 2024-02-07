@@ -19,12 +19,12 @@
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [2024 面試紀錄](https://allenblog.zeabur.app/view/smallTalk/interview-2024)
 - [探索 ChatGPT：從理論到實踐的技術突破](https://allenblog.zeabur.app/view/smallTalk/gpt-history)
 - [Prompt 指令魔術師](https://allenblog.zeabur.app/view/smallTalk/gpt-prompt-learning)
 - [Encode、Decode、Hash 是幹甚麼東西?](https://allenblog.zeabur.app/view/backend/encode)
 - [自學的進程](https://allenblog.zeabur.app/view/smallTalk/self-learning-smalltalk)
 - [瀏覽器是如何運作的?](https://allenblog.zeabur.app/view/frontend/how-browser-work)
-- [React-007 自定義鉤子 useHooks](https://allenblog.zeabur.app/view/frontend/react/react-007)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
