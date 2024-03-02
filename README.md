@@ -114,7 +114,7 @@
 </details>
 
 <p align="center">
-<a href= "https://allenblog.zeabur.app/"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
+<a href= "https://www.aaron-shih.com"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
 <a href= "mailto:eepson123@gmail.com"><img src="https://img.shields.io/badge/-eepson123@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eepson123@gmail.com"/></a>
 <a href= "https://www.linkedin.com/in/aaron-shih"><img src="https://img.shields.io/badge/-Aaron-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/aaron-shih"/></a>
 </p>
