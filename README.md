@@ -19,12 +19,12 @@
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [用 React Chart 套件們畫台灣](https://www.aaron-shih.com/view/frontend/react/react-chart)
 - [ESM 模組原理](https://www.aaron-shih.com/view/frontend/esm)
 - [2024 面試紀錄](https://www.aaron-shih.com/view/smallTalk/interview-2024)
 - [探索 ChatGPT：從理論到實踐的技術突破](https://www.aaron-shih.com/view/smallTalk/gpt-history)
 - [Prompt 指令魔術師](https://www.aaron-shih.com/view/smallTalk/gpt-prompt-learning)
 - [Encode、Decode、Hash 是幹甚麼東西?](https://www.aaron-shih.com/view/backend/encode)
-- [自學的進程](https://www.aaron-shih.com/view/smallTalk/self-learning-smalltalk)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
