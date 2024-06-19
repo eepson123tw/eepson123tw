@@ -89,6 +89,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=eepson123tw)](https://git.io/streak-stats)
 
+![](https://leetcard.jacoblin.cool/eepson123tw?theme=light&font=Abel)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eepson123tw&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
