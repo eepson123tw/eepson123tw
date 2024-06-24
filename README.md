@@ -16,6 +16,7 @@
 ## 👨🏻‍💻 Ongoing Projects:
 - [Lastmile](http://lastmile.ink/#/analyance/passenger): A side project aiming to help people find the cheapest airlines.
 - [GoodNightOjoSama](https://good-night-ojosama.zeabur.app/): A side project aiming to ... it is very hard to discribe 😂.
+- [2048](https://fet-skills.zeabur.app/2048): build a simple 2048 game.
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
