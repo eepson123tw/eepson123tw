@@ -20,10 +20,10 @@
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [2024 面試紀錄](https://www.aaron-shih.com/view/smallTalk/interview-2024)
 - [Type Guard 與 Enum 的應用](https://www.aaron-shih.com/view/frontend/is-and-enum)
 - [用 React Chart 套件們畫台灣](https://www.aaron-shih.com/view/frontend/react/react-chart)
 - [ESM 模組原理](https://www.aaron-shih.com/view/frontend/esm)
-- [2024 面試紀錄](https://www.aaron-shih.com/view/smallTalk/interview-2024)
 - [探索 ChatGPT：從理論到實踐的技術突破](https://www.aaron-shih.com/view/smallTalk/gpt-history)
 - [Prompt 指令魔術師](https://www.aaron-shih.com/view/smallTalk/gpt-prompt-learning)
 <!-- BLOG-POST-LIST:END -->
