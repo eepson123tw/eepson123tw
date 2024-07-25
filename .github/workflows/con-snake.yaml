@@ -14,12 +14,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Contribution Snake
-        uses: aelassas/snk/svg-only@main
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/contribution-snake.svg
             assets/contribution-snake-dark.svg?palette=github-dark
+            assets/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v9
