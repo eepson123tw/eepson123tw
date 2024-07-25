@@ -20,19 +20,19 @@ jobs:
           outputs: |
             assets/contribution-snake.svg
             assets/contribution-snake-dark.svg?palette=github-dark
-           
+
       - name: Configure Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Pull latest changes
-        run: git pull origin main
+        run: git pull origin master
 
       - name: Commit and Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "assets/contribution-snake.svg, assets/contribution-snake-dark.svg"
-          message: "chore: generate contribution snake"
+        run: |
+          git add assets/contribution-snake.svg assets/contribution-snake-dark.svg
+          git commit -m "chore: generate contribution snake"
+          git push origin master --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
