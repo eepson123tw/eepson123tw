@@ -93,15 +93,15 @@
 ![](https://leetcard.jacoblin.cool/eepson123tw?theme=light&font=Abel)
 
 
+</div>
+</details>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
   <img alt="github-snake" src="./assets/contribution-snake.svg" />
 </picture>
 
-
-</div>
-</details>
 
 <p align="center">
 <a href= "https://www.aaron-shih.com"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
