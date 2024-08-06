@@ -88,7 +88,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eepson123tw&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=eepson123tw)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eepson123tw&theme=meta-light&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CMon%2CWed&dates=EB5454)](https://git.io/streak-stats)
 
 ![](https://leetcard.jacoblin.cool/eepson123tw?theme=light&font=Abel)
 
