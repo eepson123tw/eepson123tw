@@ -20,12 +20,12 @@
 
 ## 🔗 Latest blog post:
 <!-- BLOG-POST-LIST:START -->
+- [利用AI學習Docker並應證](https://www.aaron-shih.com/view/backend/docker)
 - [發布一個 npm 組件](https://www.aaron-shih.com/view/frontend/npm-build-package)
 - [2024 面試紀錄](https://www.aaron-shih.com/view/smallTalk/interview-2024)
 - [Type Guard 與 Enum 的應用](https://www.aaron-shih.com/view/frontend/is-and-enum)
 - [用 React Chart 套件們畫台灣](https://www.aaron-shih.com/view/frontend/react/react-chart)
 - [ESM 模組原理](https://www.aaron-shih.com/view/frontend/esm)
-- [探索 ChatGPT：從理論到實踐的技術突破](https://www.aaron-shih.com/view/smallTalk/gpt-history)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
