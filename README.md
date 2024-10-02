@@ -14,6 +14,7 @@
 
 
 ## 👨🏻‍💻 Ongoing Projects:
+- [VoiceReactify](https://github.com/eepson123tw/VoiceReactify): TTS and voice assignment app.
 - [fet-skills](https://fet-skills.zeabur.app/):practice FE skills.
 - [GoodNightOjoSama](https://good-night-ojosama.zeabur.app/): A side project aiming to ... it is very hard to discribe 😂.
 
