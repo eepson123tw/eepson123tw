@@ -25,8 +25,6 @@
 </br>
 
 
-
-
 <details>
 <summary>Status</summary>
 <div align="center">
@@ -37,7 +35,6 @@
 
 ![](https://leetcard.jacoblin.cool/eepson123tw?theme=light&font=Abel)
 
-
 </div>
 </details>
 
@@ -47,9 +44,8 @@
   <img alt="github-snake" src="./assets/contribution-snake.svg" />
 </picture>
 
-
 <p align="center">
 <a href= "https://www.aaron-shih.com"><img src="https://img.shields.io/badge/-blog-d14836?style=flat-square&logo=HTML5&logoColor=white&link=blog"/></a>
 <a href= "mailto:ninocar215@gmail.com"><img src="https://img.shields.io/badge/ninocar215@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ninocar215@gmail.com"/></a>
 <a href= "https://www.linkedin.com/in/aaron-shih"><img src="https://img.shields.io/badge/-Aaron-blue?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/aaron-shih"/></a>
-
+</p>
