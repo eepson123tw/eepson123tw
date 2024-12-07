@@ -14,12 +14,12 @@
 
 ## 🔗 Post:
 <!-- BLOG-POST-LIST:START -->
+- [第一性原則思考](https://www.aaron-shih.com/view/smallTalk/first-principles)
 - [Python-001 探索](https://www.aaron-shih.com/view/backend/python/python-001)
 - [Canvas 粒子化練習-歌詞播放器](https://www.aaron-shih.com/view/frontend/canvas/canvas-001)
 - [我是如何學習的](https://www.aaron-shih.com/view/smallTalk/quick-learn)
 - [利用AI學習Docker並應證](https://www.aaron-shih.com/view/backend/docker)
 - [發布一個 npm 組件](https://www.aaron-shih.com/view/frontend/npm-build-package)
-- [2024 面試紀錄](https://www.aaron-shih.com/view/smallTalk/interview-2024)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
