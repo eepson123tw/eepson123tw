@@ -23,12 +23,12 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Python-003 Class](https://www.aaron-shih.com/view/backend/python/python-003)
+- [Python-002 函式](https://www.aaron-shih.com/view/backend/python/python-002)
 - [第一性原則思考](https://www.aaron-shih.com/view/smallTalk/first-principles)
 - [Python-001 探索](https://www.aaron-shih.com/view/backend/python/python-001)
 - [Canvas 粒子化練習-歌詞播放器](https://www.aaron-shih.com/view/frontend/canvas/canvas-001)
 - [我是如何學習的](https://www.aaron-shih.com/view/smallTalk/quick-learn)
-- [利用AI學習Docker並應證](https://www.aaron-shih.com/view/backend/docker)
-- [發布一個 npm 組件](https://www.aaron-shih.com/view/frontend/npm-build-package)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
