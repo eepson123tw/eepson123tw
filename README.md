@@ -28,7 +28,7 @@ A delightfully quirky side project that... well, defies simple description! 😂
 - [第一性原則思考](https://www.aaron-shih.com/view/smallTalk/first-principles)
 - [Python-001 探索](https://www.aaron-shih.com/view/backend/python/python-001)
 - [Canvas 粒子化練習-歌詞播放器](https://www.aaron-shih.com/view/frontend/canvas/canvas-001)
-- [我是如何學習的](https://www.aaron-shih.com/view/smallTalk/quick-learn)
+- [為何要學習](https://www.aaron-shih.com/view/smallTalk/quick-learn)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
