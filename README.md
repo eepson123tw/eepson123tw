@@ -36,7 +36,7 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eepson123tw&hide_progress=true" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=eepson123tw&theme=meta-light&hide_border=true" alt="GitHub Streak" />
+<!--   <img src="https://streak-stats.demolab.com?user=eepson123tw&theme=meta-light&hide_border=true" alt="GitHub Streak" /> -->
   <img src="https://leetcard.jacoblin.cool/eepson123tw?theme=light&font=Abel" alt="LeetCode Stats" />
 </div>
 
