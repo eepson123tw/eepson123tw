@@ -23,7 +23,7 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Aaron&#39;s Blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
+- [部署與 gitlab runner - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
 - [Home - Aaron&#39;s blog](https://www.aaron-shih.com/)
 - [Aaron&#39;s Blog](https://www.aaron-shih.com/backend/python/python-002)
 - [Aaron&#39;s Blog](https://www.aaron-shih.com/backend/python/python-003)
