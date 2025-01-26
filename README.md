@@ -23,12 +23,12 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [https://www.aaron-shih.com/frontend/nuxt/nuxt-001](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
-- [https://www.aaron-shih.com/](https://www.aaron-shih.com/)
-- [https://www.aaron-shih.com/backend/python/python-002](https://www.aaron-shih.com/backend/python/python-002)
-- [https://www.aaron-shih.com/backend/python/python-003](https://www.aaron-shih.com/backend/python/python-003)
-- [https://www.aaron-shih.com/smallTalk/first-principles](https://www.aaron-shih.com/smallTalk/first-principles)
-- [https://www.aaron-shih.com/backend/python/python-001](https://www.aaron-shih.com/backend/python/python-001)
+- [Aaron&#39;s Blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
+- [Home - Aaron&#39;s blog](https://www.aaron-shih.com/)
+- [Aaron&#39;s Blog](https://www.aaron-shih.com/backend/python/python-002)
+- [Aaron&#39;s Blog](https://www.aaron-shih.com/backend/python/python-003)
+- [Aaron&#39;s Blog](https://www.aaron-shih.com/smallTalk/first-principles)
+- [Aaron&#39;s Blog](https://www.aaron-shih.com/backend/python/python-001)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
