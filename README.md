@@ -23,12 +23,12 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt 部署與 gitlab runner](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
-- [Python-003 Class](https://www.aaron-shih.com/backend/python/python-003)
-- [Python-002 函式](https://www.aaron-shih.com/backend/python/python-002)
-- [第一性原則思考](https://www.aaron-shih.com/smallTalk/first-principles)
-- [Python-001 探索](https://www.aaron-shih.com/backend/python/python-001)
-- [Canvas 粒子化練習-歌詞播放器](https://www.aaron-shih.com/frontend/canvas/canvas-001)
+- [https://www.aaron-shih.com/frontend/nuxt/nuxt-001](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
+- [https://www.aaron-shih.com/](https://www.aaron-shih.com/)
+- [https://www.aaron-shih.com/backend/python/python-002](https://www.aaron-shih.com/backend/python/python-002)
+- [https://www.aaron-shih.com/backend/python/python-003](https://www.aaron-shih.com/backend/python/python-003)
+- [https://www.aaron-shih.com/smallTalk/first-principles](https://www.aaron-shih.com/smallTalk/first-principles)
+- [https://www.aaron-shih.com/backend/python/python-001](https://www.aaron-shih.com/backend/python/python-001)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
