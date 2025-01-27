@@ -23,12 +23,12 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Day 7 自定義鉤子 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-007)
-- [React Chart 畫台灣 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-chart)
-- [Day 6 進階與渲染 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-006)
-- [Day 4 渲染與 fiber - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-004)
-- [Day 5 hook 與驅動 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-005)
-- [Day 2 組件傳參 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/react/react-002)
+- [粒子化練習 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/canvas/canvas-001)
+- [部署與 gitlab runner - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
+- [Day 3 Class - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-003)
+- [Day 2 函式 - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-002)
+- [第一性原則思考 - Aaron&#39;s blog](https://www.aaron-shih.com/smalltalk/first-principles)
+- [Day 1 探索 - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-001)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
