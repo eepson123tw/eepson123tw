@@ -23,12 +23,12 @@ A delightfully quirky side project that... well, defies simple description! 😂
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI 幫幫忙 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/ai-hurry-up)
 - [粒子化練習 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/canvas/canvas-001)
 - [部署與 gitlab runner - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
 - [Day 3 Class - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-003)
 - [Day 2 函式 - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-002)
 - [第一性原則思考 - Aaron&#39;s blog](https://www.aaron-shih.com/smalltalk/first-principles)
-- [Day 1 探索 - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-001)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
