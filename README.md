@@ -53,12 +53,12 @@ EXPLORING:  LLM | 3D Modeling
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [模型上下文協議 &lpar;MCP&rpar; - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/mcp)
 - [Tokenizer 分詞器 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/tokenizer)
 - [LLM 關鍵字 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/llm-keyword)
 - [AI 幫幫忙 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/ai-hurry-up)
 - [粒子化練習 - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/canvas/canvas-001)
 - [部署與 gitlab runner - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/nuxt/nuxt-001)
-- [Day 3 Class - Aaron&#39;s blog](https://www.aaron-shih.com/backend/python/python-003)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
