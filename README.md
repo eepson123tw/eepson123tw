@@ -11,7 +11,7 @@
 > Frontend Developer & Explorer
 
 `$ contact --list`
-> [Portfolio](https://www.aaron-shih.com) | [Email](mailto:ninocar215@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aaron-shih) | [GitHub](https://github.com/eepson123tw)
+> [Email](mailto:ninocar215@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aaron-shih) 
 
 `$ cat about.txt`
 ```
