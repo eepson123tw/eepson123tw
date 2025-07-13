@@ -63,7 +63,7 @@ EXPLORING:  LLM | 3D Modeling
 
 </div>
 
-`$ stats --github`
+`$ stats --leetcode`
 
 ```
 ┌─────────────────── LEETCODE STATS ───────────────────┐
