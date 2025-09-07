@@ -53,12 +53,12 @@ EXPLORING:  LLM | 3D Modeling
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 上半年雜談 - 跌跌撞撞但還是在前進 - Aaron&#39;s blog](https://www.aaron-shih.com/smalltalk/2025-mid-year-recap)
 - [為什麼要有 Template? - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/vue/vue-002)
 - [Watch &amp; Computed - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/vue/vue-001)
 - [模型上下文協議 &lpar;MCP&rpar; - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/mcp)
 - [Tokenizer 分詞器 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/tokenizer)
 - [LLM 關鍵字 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/llm-keyword)
-- [AI 幫幫忙 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/ai-hurry-up)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
