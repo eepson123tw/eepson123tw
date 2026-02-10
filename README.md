@@ -53,12 +53,12 @@ EXPLORING:  LLM | 3D Modeling
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 上半年雜談 - 跌跌撞撞但還是在前進 - Aaron&#39;s blog](https://www.aaron-shih.com/smalltalk/2025-mid-year-recap)
-- [為什麼要有 Template? - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/vue/vue-002)
-- [Watch &amp; Computed - Aaron&#39;s blog](https://www.aaron-shih.com/frontend/vue/vue-001)
-- [模型上下文協議 &lpar;MCP&rpar; - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/mcp)
-- [Tokenizer 分詞器 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/tokenizer)
-- [LLM 關鍵字 - Aaron&#39;s blog](https://www.aaron-shih.com/aiend/llm-keyword)
+- [部落格大掃除 - 終於還了這筆技術債](https://www.aaron-shih.com/smalltalk/2026-02-blog-refactor)
+- [Blog Cleanup - Finally Paying Off This Tech Debt](https://www.aaron-shih.com/en/smalltalk/2026-02-blog-refactor)
+- [ブログ大掃除 - やっと技術的負債を返済した](https://www.aaron-shih.com/ja/smalltalk/2026-02-blog-refactor)
+- [2025 上半年雜談 - 跌跌撞撞但還是在前進](https://www.aaron-shih.com/smalltalk/2025-mid-year-recap)
+- [為什麼要有 Template?](https://www.aaron-shih.com/frontend/vue/vue-002)
+- [Why Do We Need Templates?](https://www.aaron-shih.com/en/frontend/vue/vue-002)
 <!-- BLOG-POST-LIST:END -->
 
 </div>
