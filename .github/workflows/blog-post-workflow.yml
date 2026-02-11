@@ -17,5 +17,5 @@ jobs:
           feed_list: "https://allenblog.zeabur.app/rss.xml"
           max_post_count: 6
           disable_item_validation: true
-          item_exec: "if (!post.title || post.link.includes('/ja/')) post = null;" 
+          item_exec: "if (!post.title || /[\u3040-\u30FF]/.test(post.title)) post = null;"
           date_format: yy-mm-dd
