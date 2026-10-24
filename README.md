@@ -60,10 +60,10 @@ Japanese-literature graduate who switched into frontend in 2021. Writes React an
 
 `~/blog`
 
-<!-- BLOG-POST-LIST:START -->- 2026-02 · [Blog Cleanup - Finally Paying Off This Tech Debt](https://www.aaron-shih.com/en/smalltalk/2026-02-blog-refactor)
+<!-- BLOG-POST-LIST:START -->
+- 2026-02 · [Blog Cleanup - Finally Paying Off This Tech Debt](https://www.aaron-shih.com/en/smalltalk/2026-02-blog-refactor)
 - 2025-05 · [Why Do We Need Templates?](https://www.aaron-shih.com/en/frontend/vue/vue-002)
-- 2025-05 · [Watch &amp; Computed](https://www.aaron-shih.com/en/frontend/vue/vue-001)
-<!-- BLOG-POST-LIST:END -->
+- 2025-05 · [Watch &amp; Computed](https://www.aaron-shih.com/en/frontend/vue/vue-001)<!-- BLOG-POST-LIST:END -->
 
 <details>
 <summary><code>~/archive</code> — older experiments (2025)</summary>
