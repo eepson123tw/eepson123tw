@@ -84,7 +84,7 @@ Japanese-literature graduate who switched into frontend in 2021. Writes React an
 
 #### SEE ALSO
 
-[blog(7)](https://www.aaron-shih.com/en) · [linkedin(1)](https://www.linkedin.com/in/aaron-shih) · [mail(1)](mailto:ninocar215@gmail.com) · [tradingnote(8)](https://www.tradingnote.tw)
+[blog(7)](https://www.aaron-shih.com/en) · [mail(1)](mailto:ninocar215@gmail.com) · [tradingnote(8)](https://www.tradingnote.tw)
 
 ```text
 Do Not Go Gentle into That Good Night.
